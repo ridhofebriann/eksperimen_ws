@@ -2,6 +2,11 @@
 
 # Eksperimen Komunikasi Real-Time Menggunakan WebSocket 🚀
 
+| Hasil Eksperimen |
+|:---:|
+| <img src="hasil eksperimen.png" width="1000"> |
+
+
 Repository ini memuat *source code* dari simulasi aplikasi *Live Chat* sederhana yang diimplementasikan menggunakan Node.js. Proyek ini dibangun untuk memenuhi tugas Ujian Tengah Semester (UTS) guna membuktikan keunggulan protokol WebSocket atas HTTP tradisional dalam menangani komunikasi dua arah (*full-duplex*) berlatensi rendah.
 
 ## ⚙️ Alur Kerja Komunikasi (Data Flow)
